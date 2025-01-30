@@ -82,6 +82,14 @@ nav a {
 	color: white;
 }
 
+
+
+table, th, td {
+  text-align: center;
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
 table{
     margin: auto
 }
@@ -99,6 +107,7 @@ caption{
     color: white;
     text-align: center;
 }
+
 
 
 dt {
@@ -125,3 +134,5 @@ footer {
     background-color: black; 
     padding: 15px;
 	}
+
+
