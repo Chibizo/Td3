@@ -88,7 +88,10 @@ nav a {
 nav a:hover{
 	text-decoration: underline;
 }
-
+nav a img:hover{
+	width:10%;
+	transform:scale(1.1);
+}
 
 
 table, th, td {
