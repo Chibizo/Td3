@@ -62,7 +62,7 @@ nav ul{
 	justify-content: flex-end;
 }
 
-nav h2{
+nav h2 a{
 	padding-left: 10px;
 	display: flex;
 	align-items: center;
@@ -130,13 +130,15 @@ dd{
 }
 main{
 	padding-bottom: 250px;
+
 }
 footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
     background-color: black; 
-    padding: 15px;
+    padding: 15px;	
+
 	}
 
 
