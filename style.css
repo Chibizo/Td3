@@ -166,30 +166,30 @@ figure {
 }
 
 /* Couleurs spécifiques */
-#Soleil {
+.Soleil {
     padding-top: 25px;
     padding-left: 250px;
     color: #FFDD00;
 }
 
-#Lune {
+.Lune {
     color: #D3D3D3;
     padding-top: 25px;
     padding-left: 250px;
 }
 
-#Mars {
+.Mars {
     color: #C1440E;
 }
 
-#Jaune {
+.Jaune {
     color: #FFDD00;
 }
 
-#Gris {
+.Gris {
     color: #D3D3D3;
 }
 
-#Bleu {
+.Bleu {
     color: #1E90FF;
 }
