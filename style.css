@@ -4,12 +4,25 @@ body{
 	background-color: black;
 	background-image: url(./image/Fond.png);
 	font-family: 'Space Mono',monospace;
+	color: white;
 }
 h1 {
 	color: white;
 	text-align: center;
 	margin-top: 50px;
 }
+
+section h2 {
+	padding-top: 25px;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+p{
+	text-align: center;
+	padding-inline: 50px;
+}
+
 nav{
 	display: flex;
 	margin-top: 0;
@@ -46,3 +59,4 @@ nav a {
 	text-decoration: none;
 	color: white;
 }
+
