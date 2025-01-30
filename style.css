@@ -85,6 +85,12 @@ nav a {
 	text-decoration: none;
 	color: white;
 }
+nav a:hover{
+	text-decoration: underline;
+}
+nav a img:hover{
+	width:110%;
+}
 
 
 
