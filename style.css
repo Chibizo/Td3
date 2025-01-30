@@ -60,9 +60,13 @@ nav ul{
 	text-align: right;
 	width: 65%;
 	justify-content: flex-end;
+}
 
-
-
+nav h2{
+	padding-left: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 
 }
 nav ul li{
