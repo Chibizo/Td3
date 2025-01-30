@@ -82,6 +82,25 @@ nav a {
 	color: white;
 }
 
+table{
+    margin: auto
+}
+td {
+    text-align: center;
+  color: white;
+  padding: 5px;
+}
+tr:not(:last-child) {
+text-align: center;
+  border-bottom: 2px solid white;
+}
+caption{
+    margin: auto
+    color: white;
+    text-align: center;
+}
+
+
 dt {
 	display: flex;	
 	align-items: center;
