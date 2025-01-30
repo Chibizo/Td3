@@ -84,9 +84,22 @@ nav ul li img{
 nav a {
 	text-decoration: none;
 	color: white;
+	display: inline-block;
+    position: relative;
 }
-nav a:hover{
-	text-decoration: underline;
+nav a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color:  white;
+    transition: transform 1s ease-out;
+}
+nav a:hover::after {
+    transform: scaleX(1);
 }
 nav a img:hover{
 	transform:scale(1.1);
