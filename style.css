@@ -144,3 +144,13 @@ figure {
 	text-align: center
 }
 
+ul {
+ list-style-type: none;
+ text-align: center;
+
+}
+
+#Jaune {
+	color: #FFDD00;
+}
+
