@@ -157,6 +157,7 @@ dt img {
 }
 
 span{
+    padding-top: 25px;
     text-align: center;
     padding-inline: 50px;
 
