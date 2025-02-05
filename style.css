@@ -156,6 +156,11 @@ dt img {
     padding-inline: 20px;
 }
 
+span{
+     padding-inline: 50px;
+
+}
+
 dd {
     padding-bottom: 40px;
 }
