@@ -159,7 +159,7 @@ dt img {
 
 span{
     text-align: center;
-    padding-inline: 50px;
+    padding-inline: 150px;
 
 }
 
@@ -218,3 +218,8 @@ figure {
 
 
 
+#remonter{
+    text-decoration: none;
+    color: white;
+
+}
