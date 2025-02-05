@@ -185,7 +185,7 @@ figure {
 }
 
 .Mars {
-    color: #C1440E;
+    color:#FF6600 ;
 }
 
 .Jaune {
@@ -202,4 +202,9 @@ figure {
 
 #Illustration-Systeme{
     max-width: 100%
+}
+
+#Liste-Soleil strong{
+    padding-top: 25px;
+    color: #FFDD00;
 }
