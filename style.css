@@ -171,6 +171,7 @@ figure {
     text-align: center;
 }
 
+
 /* Couleurs spécifiques */
 .Soleil {
     padding-top: 25px;
@@ -206,6 +207,42 @@ figure {
 }
 
 
+#Video {
+    display: inline-block; 
+    padding: 20px 40px;
+    background-color: #D8B57E; 
+    color: white;   
+    border-radius: 25px; 
+    font-size: 18px; 
+
+}
+
+#Vaisseau {
+    display: inline-block; 
+    padding: 20px 40px;
+    background-color: #D3D3D3; 
+    color: black;   
+    border-radius: 25px; 
+    font-size: 18px; 
+}
+
+#Alien {
+    display: inline-block; 
+    padding: 20px 40px;
+    background-color: #FF6600; 
+    color: white;   
+    border-radius: 25px; 
+    font-size: 18px; 
+}
+
+#Pdf {
+     display: inline-block; 
+    padding: 20px 40px;
+    background-color: #2C3E50; 
+    color: white;   
+    border-radius: 25px; 
+    font-size: 18px; 
+}
 
 #Illustration-Systeme{
     max-width: 100%
