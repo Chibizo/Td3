@@ -6,6 +6,7 @@ body {
     margin: 0;
     background-color: black;
     background-image: url(./image/Fond.png);
+    background-size: cover;
     font-family: 'Space Mono', monospace;
     color: white;
 }
