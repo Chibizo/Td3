@@ -5,7 +5,7 @@
 body {
     margin: 0;
     background-color: black;
-    background-image: url(./image/Fond.png);
+    background-image: url(./image/fond.png);
     background-size: 100% auto;
     font-family: 'Space Mono', monospace;
     color: white;
