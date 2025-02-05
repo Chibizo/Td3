@@ -148,8 +148,12 @@ p {
     padding-inline: 50px;
 }
 
+dl {
+    display: block;
+    justify-items: center;
+}
 dt {
-    display: flex;
+   display: flex;
     align-items: center;
 }
 
@@ -165,6 +169,7 @@ span{
 
 dd {
     padding-bottom: 40px;
+
 }
 
 figure {
