@@ -227,12 +227,15 @@ figure {
 }
 
 #Vaisseau {
-    display: inline-block; 
+    display: block; 
+    text-align: center;
     padding: 20px 40px;
     background-color: #D3D3D3; 
     color: black;   
     border-radius: 25px; 
     font-size: 18px; 
+
+
 }
 
 #Alien {
