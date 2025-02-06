@@ -264,9 +264,14 @@ figure {
 
 
 
-#Remonter{
+#Remonter {
+    display: block;
+    text-align: center;
     text-decoration: none;
+    margin-top: 150px;
     color: white;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.2); 
 
 }
 
@@ -278,6 +283,7 @@ figure {
     right: 20px;
     top: 5%;
     cursor: pointer;
+    background-color: transparent;
 }
 
 .menu-label {
@@ -294,6 +300,7 @@ figure {
     list-style: none;
     padding: 0;
     display: none;
+    background-color: black;
 }
 
 .side-menu:hover ul {   
